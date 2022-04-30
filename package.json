@@ -1,0 +1,23 @@
+{
+  "name": "kq4d8d",
+  "version": "0.0.0",
+  "description": "Afk bot for minecraft servers.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eject": "react-scripts eject"
+  },
+  "author": "urFate",
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^3.11.0",
+    "mineflayer-antiafk": "git+https://github.com/Etiaro/mineflayer-antiafk.git",
+    "mineflayer-pathfinder": "^1.2.3",
+    "mineflayer-pvp": "^1.0.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  }
+}

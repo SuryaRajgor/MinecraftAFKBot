@@ -1,0 +1,2 @@
+# MinecraftAFKBot
+Created with CodeSandbox
